@@ -1,0 +1,22 @@
+﻿@model mvc01.Controllers.RootObject
+@{
+    var x = Model;
+    ViewBag.Title = "About";
+}
+<h2>@ViewBag.Title.</h2>
+<h3>@ViewBag.Message</h3>
+
+<p>Use this area to provide additional information.</p>
+
+
+Title=> @Model.Header.Title<br />
+LastBuiltdate=>@Model.Header.LastBuiltDate
+
+@foreach (var station in Model.Stations)
+{
+    <div class="row">
+        <div class="col col-4 col-sm-4">@station.Province </div>
+        <div class="col col-4 col-sm-4">@station.StationNameTh </div>
+        <div class="col col-4 col-sm-4">@station.Observe.Temperature.Value</div>        
+    </div>
+}

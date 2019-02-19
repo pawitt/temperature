@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="forexModelStoreContainer" CdmEntityContainer="forexEntities">
+    <EntitySetMapping Name="temperaturetbls">
+      <EntityTypeMapping TypeName="forexModel.temperaturetbl">
+        <MappingFragment StoreEntitySet="temperaturetbl">
+          <ScalarProperty Name="status" ColumnName="status" />
+          <ScalarProperty Name="resptime" ColumnName="resptime" />
+          <ScalarProperty Name="calltime" ColumnName="calltime" />
+          <ScalarProperty Name="recdata" ColumnName="recdata" />
+          <ScalarProperty Name="recid" ColumnName="recid" />
+          <ScalarProperty Name="id" ColumnName="id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

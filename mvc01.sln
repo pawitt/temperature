@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mvc01", "mvc01\mvc01.csproj", "{DB1652CA-AE86-4F6B-AE11-4CC21DDAFC22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyService", "MyService\MyService.csproj", "{41278139-3457-40D5-9BB0-1A5CF8AF320F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{34E2B540-9C57-4FFC-A694-7BB348346440}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB1652CA-AE86-4F6B-AE11-4CC21DDAFC22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB1652CA-AE86-4F6B-AE11-4CC21DDAFC22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB1652CA-AE86-4F6B-AE11-4CC21DDAFC22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB1652CA-AE86-4F6B-AE11-4CC21DDAFC22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41278139-3457-40D5-9BB0-1A5CF8AF320F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41278139-3457-40D5-9BB0-1A5CF8AF320F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41278139-3457-40D5-9BB0-1A5CF8AF320F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41278139-3457-40D5-9BB0-1A5CF8AF320F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34E2B540-9C57-4FFC-A694-7BB348346440}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34E2B540-9C57-4FFC-A694-7BB348346440}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34E2B540-9C57-4FFC-A694-7BB348346440}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34E2B540-9C57-4FFC-A694-7BB348346440}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E813146-8EE7-4F2B-B734-B2A145D5FB0C}
+	EndGlobalSection
+EndGlobal

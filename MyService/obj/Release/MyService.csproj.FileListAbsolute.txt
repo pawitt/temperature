@@ -1,0 +1,13 @@
+D:\DATAPAWIT\projects\dotnet\mvc\MyService\bin\Release\MyService.exe.config
+D:\DATAPAWIT\projects\dotnet\mvc\MyService\bin\Release\MyService.exe
+D:\DATAPAWIT\projects\dotnet\mvc\MyService\bin\Release\MyService.pdb
+D:\DATAPAWIT\projects\dotnet\mvc\MyService\bin\Release\RestSharp.dll
+D:\DATAPAWIT\projects\dotnet\mvc\MyService\bin\Release\RestSharp.xml
+D:\DATAPAWIT\projects\dotnet\mvc\MyService\obj\Release\MyService.ProjectInstaller.resources
+D:\DATAPAWIT\projects\dotnet\mvc\MyService\obj\Release\MyService.Service1.resources
+D:\DATAPAWIT\projects\dotnet\mvc\MyService\obj\Release\MyService.csproj.GenerateResource.cache
+D:\DATAPAWIT\projects\dotnet\mvc\MyService\obj\Release\MyService.csproj.CoreCompileInputs.cache
+D:\DATAPAWIT\projects\dotnet\mvc\MyService\obj\Release\MyService.csproj.CopyComplete
+D:\DATAPAWIT\projects\dotnet\mvc\MyService\obj\Release\MyService.exe
+D:\DATAPAWIT\projects\dotnet\mvc\MyService\obj\Release\MyService.pdb
+D:\DATAPAWIT\projects\dotnet\mvc\MyService\obj\Release\MyService.csprojAssemblyReference.cache
